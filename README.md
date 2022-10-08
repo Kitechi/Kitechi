@@ -2,7 +2,6 @@
 - 🔭 Currently, working at OKY Co. LTD, South Korea
 - 👀 I’m interested in Software development, Robotics, Electronics (Embedded systems)
 - 🌱 I’m currently working as firmware developer for sophisticated electrical system.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on salahuddin.mrwt@gmail.com or u2014314@kaist.ac.kr
 - 💬 LinkedIn: [https://www.linkedin.com/in/salah-ud-din-66792914b/]
 
