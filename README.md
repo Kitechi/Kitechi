@@ -5,7 +5,7 @@
 - 📫 You can contact me on salahuddin.mrwt@gmail.com or u2014314@kaist.ac.kr
 - 💬 LinkedIn: [https://www.linkedin.com/in/salah-ud-din-66792914b/]
 
-🔭 Key Skills: C/C++/Qt/Qml/OpenGL/Python/PyQT/MPLABX/MATLAB/PCB Design/CAD modeling
+🔭 Key Skills: C/C++/Qt/Qml/OpenGL/Python/OpenCV/PyQT/MPLABX/MATLAB/PCB Design/CAD modeling/Image Processing
 
 I have a keen interest and working experience in robotics and software development. 
 My expertise includes open-source software development, robotics, automation, algorithm 
