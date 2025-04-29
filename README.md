@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Salahuddin
-- 🔭 Currently, working at OKY Co. LTD, South Korea
+- 🔭 Currently, working at Kortherm Science, South Korea
 - 👀 I’m interested in Software development, Robotics, Electronics systems (Embedded systems).
-- 🌱 I’m currently working as a firmware developer for sophisticated electrical system at OKY.
-- 📫 You can contact me on salahuddin.mrwt@gmail.com or u2014314@kaist.ac.kr
+- 🌱 I’m currently working as a System and Software design Engineer for sophisticated Laser system at Kortherm.
+- 📫 You can contact me on salahuddin.mrwt@gmail.com or salahdn@kortherm.co.kr
 - 💬 LinkedIn: [https://www.linkedin.com/in/salah-ud-din-66792914b/]
 
 🔭 Key Skills: C/C++/Qt/Qml/OpenGL/Python/OpenCV/PyQT/MPLABX/MATLAB/PCB Design/CAD modeling/Image Processing
